@@ -17,7 +17,7 @@ So now, when I'm pulling LLMs or ISOs or OS updates, I get the fun of seeing a o
 
 ## How does it work?
 
-The gauges are driven directly by the Arduino via the RESTduino library. In particular
+The gauges are driven directly by the Arduino via the [RESTduino](https://github.com/jjg/RESTduino) library. In particular
 
 
     curl http://restduino.local/D3/128
